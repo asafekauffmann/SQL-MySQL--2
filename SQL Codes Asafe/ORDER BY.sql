@@ -1,0 +1,3 @@
+SELECT * FROM tabela_de_clientes WHERE NOME LIKE '%A%' ORDER BY IDADE = 20;
+
+SELECT * FROM tabela_de_produtos ORDER BY PRECO_DE_LISTA, NOME_DO_PRODUTO DESC; 

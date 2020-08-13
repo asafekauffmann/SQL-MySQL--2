@@ -1,0 +1,6 @@
+SELECT * FROM tabela_de_clientes WHERE CIDADE = 'RIO DE JANEIRO' LIMIT 10;
+
+SELECT * FROM tabela_de_clientes WHERE CIDADE = 'RIO DE JANEIRO' LIMIT 3,10;
+
+
+SELECT * FROM tabela_de_clientes WHERE CIDADE = 'RIO DE JANEIRO' LIMIT 2,4;
